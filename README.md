@@ -54,10 +54,12 @@ A classic game built with modern UI and responsive design.
 ---
 
 ### 📊 GitHub Stats (Optional widgets you can embed)
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshangoswami07&show_icons=true&theme=tokyonight)
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-goswami&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=darshan-goswami&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-goswami&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Darshangoswami07&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshangoswami07&layout=compact&theme=tokyonight)
+
 
 ---
 
