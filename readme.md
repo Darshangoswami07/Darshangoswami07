@@ -1,203 +1,171 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Darshan%20Goswami&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2F%20MEAN&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=200&section=header&text=Darshan%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20MERN%20/%20MEAN&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Shipping+full-stack+products+end-to-end;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Delivering+for+a+live+paying+client;Pursuing+MCA+%40+Amity+University" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+end-to-end;React.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+REST+APIs;Shipping+real+software+for+real+clients;Currently+pursuing+MCA" alt="Typing SVG" />
+<a href="mailto:goswamidarshan12345@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A"/>
+</a>
+<a href="https://linkedin.com/in/darshan-goswami-b09137222">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A"/>
+</a>
+<a href="https://github.com/darshangoswami07">
+<img src="https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white&labelColor=0F172A"/>
+</a>
+<a href="https://silver-bienenstitch-7d8c59.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white&labelColor=0F172A"/>
+</a>
 
 <br/><br/>
 
-<a href="mailto:goswamidarshan12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/darshan-goswami-b09137222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/darshangoswami07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Haldwani,_Uttarakhand-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=darshangoswami07&style=flat-square&color=58A6FF&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/📍_Haldwani,_Uttarakhand,_India-1E293B?style=flat-square&color=1E293B&labelColor=0F172A"/>
+<img src="https://komarev.com/ghpvc/?username=darshangoswami07&style=flat-square&color=2563EB&labelColor=0F172A&label=Profile+Views"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
-
-## &nbsp;🧠&nbsp; About Me
-
-<img align="right" width="290" src="https://raw.githubusercontent.com/ovi-code/ovi-code/master/computer.gif"/>
+## About
 
 Full Stack Developer specializing in the **MERN/MEAN stack**, with hands-on experience shipping complete products end-to-end — from a job platform combining listing aggregation, resume building, and ATS scoring, to a custom application delivered and **actively running for a live paying client**.
 
-```javascript
-const darshan = {
-  role: "Full Stack Developer (MERN / MEAN)",
-  location: "Haldwani, Uttarakhand, India",
-  education: "MCA @ Amity University Online (in progress)",
-  strengths: [
-    "Solo end-to-end ownership",
-    "React Native + FastAPI cross-stack delivery",
-    "Client communication & post-launch support"
-  ],
-  currentlyExpanding: ["AWS", "Docker", "CI/CD", "System Design", "DSA"],
-  lookingFor: "A growing engineering team to build with"
-};
-```
+Comfortable owning a project solo across requirements gathering, development, deployment, client communication, and post‑launch support. Working knowledge of React Native and FastAPI, extending products across mobile and additional backend stacks. Currently pursuing an MCA and looking to bring the same ownership, speed, and product thinking to a growing engineering team.
 
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
-
-## &nbsp;🛠️&nbsp; Tech Stack
-
-<div align="center">
-
-**Core Stack**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,redux,tailwind&theme=dark" />
 
-<br/><br/>
-
-**Also Shipped With**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,react,fastapi,py,supabase&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,cloudinary&theme=dark" />
-
-<br/><br/>
-
-**Currently Expanding**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
-
-## &nbsp;💼&nbsp; Experience
+## Tech Stack
 
 <table>
 <tr>
-<td width="100%">
+<td valign="top" width="50%">
 
-### 🚀 Freelance Full Stack Developer
-**Independent Client Project · Remote** &nbsp;&nbsp;`2026 – Present`
+**Core**
 
-- Built a custom **delivery/order-tracking application** (slip uploads, Pending/Delivered workflows) for a business client, deployed locally across 2–3 client devices per their infrastructure requirements
-- Implemented an **admin-approval authentication system** restricting access to owner-approved users, meeting client access-control and data-privacy requirements
-- Owned the project independently end-to-end — requirements → development → delivery → post-launch fixes — **reducing order-tracking errors by ~40%**
+<img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Redux_Toolkit-1E293B?style=flat-square&logo=redux&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=38B2AC"/>
+
+**Also shipped with**
+
+<img src="https://img.shields.io/badge/Angular-1E293B?style=flat-square&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/React_Native-1E293B?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Tools & platforms**
+
+<img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-1E293B?style=flat-square&logo=cloudinary&logoColor=3448C5"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-1E293B?style=flat-square&logo=mongodb&logoColor=47A248"/>
+
+**Currently expanding**
+
+<img src="https://img.shields.io/badge/AWS-1E293B?style=flat-square&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/CI/CD-1E293B?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/System_Design-1E293B?style=flat-square"/> <img src="https://img.shields.io/badge/DSA-1E293B?style=flat-square"/>
 
 </td>
 </tr>
-<tr>
-<td width="100%">
+</table>
 
-### 💻 Frontend Developer Intern — CADL, Zirakpur, Punjab
-`Jul 2024 – Jan 2025`
+<br/>
 
-- Developed responsive, cross-browser interfaces using HTML, CSS, JavaScript, and React
-- Built **15+ reusable React components**, cutting duplicate code and boosting dev speed by **~25%**
+## Experience
+
+**Freelance Full Stack Developer** — Independent Client Project, Remote
+<sub>2026 – Present</sub>
+
+- Built a custom delivery/order-tracking application (slip uploads, Pending/Delivered workflows) for a business client, deployed locally across 2–3 client devices per their infrastructure requirements
+- Implemented an admin-approval authentication system restricting access to owner-approved users, meeting the client's access-control and data-privacy requirements
+- Owned the project independently end-to-end — requirements gathering, development, delivery, and ongoing post-launch fixes — **reducing order-tracking errors by ~40%**
+
+**Frontend Developer Intern** — CADL, Zirakpur, Punjab
+<sub>Jul 2024 – Jan 2025</sub>
+
+- Developed responsive, cross-browser web interfaces using HTML, CSS, JavaScript, and React
+- Built **15+ reusable React components** used across multiple pages, reducing duplicate code and improving development speed by ~25%
 - Collaborated with backend and design teams to integrate REST APIs and translate designs into functional UI
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
-
-## &nbsp;🚀&nbsp; Featured Projects
-
-<div align="center">
-
-<a href="https://job-portal-kappa-nine.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darshangoswami07&repo=job-portal&theme=tokyonight&hide_border=true&title_color=58A6FF" width="47%"/>
-</a>
-<a href="https://github.com/Darshangoswami07/angular-shopping-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darshangoswami07&repo=angular-shopping-app&theme=tokyonight&hide_border=true&title_color=58A6FF" width="47%"/>
-</a>
-
-</div>
-
 <br/>
 
-#### 🧭 [JobHub — Job Aggregator, Resume Builder & ATS Checker](https://job-portal-kappa-nine.vercel.app)
-`React` `Node.js` `Express` `MongoDB` `Redux Toolkit`
-
-Full-stack job platform aggregating live listings from a third-party job-search API, combined with a built-in resume builder and ATS compatibility score checker — one product, three tools. Dual-role architecture (Student / Recruiter) with separate dashboards, secured via JWT auth and RBAC. **25+ REST APIs** built in Node.js/Express, with MongoDB + Cloudinary and Redux Toolkit for state.
-
-#### 📱 JobHub Mobile
-`React Native` `FastAPI` `Python`
-
-Extended JobHub into a cross-platform mobile app with a collaborator — React Native client, FastAPI backend. Owned mobile screens and API integration end-to-end *(demo available on request)*.
-
-#### 🛒 [Meridian Market — Full-Stack E-commerce Platform](https://shopping-app-meridian.vercel.app)
-`Angular` `Node.js` `Express` `Supabase` &nbsp;·&nbsp; [Source Code](https://github.com/Darshangoswami07/angular-shopping-app)
-
-Full-featured storefront — authentication, product catalog, cart, category filtering. Supabase for database/auth, Node.js/Express REST APIs, Angular frontend for dynamic, responsive data rendering.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
-
-## &nbsp;🎓&nbsp; Education & Certifications
+## Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
-**🎓 Master of Computer Applications (MCA)**
-Amity University Online
-`Dec 2024 – Present`
+**[JobHub](https://job-portal-kappa-nine.vercel.app)**
+Job aggregator, resume builder & ATS checker
 
-**🎓 Bachelor of Computer Applications (BCA)**
-Amrapali Group of Institutes, Haldwani
-`2021 – Sep 2024`
+`React` `Node.js` `Express` `MongoDB`
+
+Dual-role (Student/Recruiter) architecture with JWT auth and RBAC. 25+ REST APIs, MongoDB + Cloudinary, Redux Toolkit for state.
 
 </td>
-<td>
+<td width="33%" valign="top">
 
-**📜 Certifications**
-- Frontend Developer Internship Certificate — CADL, 2025
+**JobHub Mobile**
+Cross-platform extension of JobHub
+
+`React Native` `FastAPI` `Python`
+
+Built with a collaborator — React Native client, FastAPI backend. Owned mobile screens and API integration end-to-end.
+
+</td>
+<td width="33%" valign="top">
+
+**[Meridian Market](https://shopping-app-meridian.vercel.app)**
+Full-stack e-commerce platform
+
+`Angular` `Node.js` `Supabase`
+
+Auth, product catalog, cart, and category filtering. Supabase for database/auth, Express REST APIs, Angular frontend.
+[Source →](https://github.com/Darshangoswami07/angular-shopping-app)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
+<br/>
 
-## &nbsp;📊&nbsp; GitHub Analytics
+## Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **MCA**, Amity University Online | Dec 2024 – Present |
+| 🎓 **BCA**, Amrapali Group of Institutes, Haldwani | 2021 – Sep 2024 |
+| 📜 **Frontend Developer Internship Certificate**, CADL | 2025 |
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshangoswami07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangoswami07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=darshangoswami07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=2563EB"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangoswami07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=darshangoswami07&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshangoswami07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=darshangoswami07&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&width=100%"/>
+<br/>
 
 <div align="center">
 
-## &nbsp;📫&nbsp; Let's Build Something
+### Let's connect
 
-**Open to full-time roles and freelance collaborations.**
-Always happy to talk MERN, product ownership, or your next feature.
+Open to full-time roles and freelance collaborations.
 
-<a href="mailto:goswamidarshan12345@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/darshan-goswami-b09137222"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:goswamidarshan12345@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://linkedin.com/in/darshan-goswami-b09137222"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
