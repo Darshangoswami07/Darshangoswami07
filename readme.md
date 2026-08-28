@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=200&section=header&text=Darshan%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20MERN%20/%20MEAN&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=180&section=header&text=Darshan%20Goswami&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20MERN%20/%20MEAN&descAlignY=68&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Shipping+full-stack+products+end-to-end;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Delivering+for+a+live+paying+client;Pursuing+MCA+%40+Amity+University" />
+<p><b>Shipping full-stack products end-to-end</b> — React · Node.js · Express · MongoDB — currently pursuing an MCA</p>
 
 <br/>
 
